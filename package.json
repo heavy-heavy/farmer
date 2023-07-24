@@ -6,10 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "fruit-farm"
-  },
   "author": "Prabhav Kumar Singh",
   "license": "ISC",
   "devDependencies": {
